@@ -16,3 +16,14 @@ AlPervakov microservices repository
 
 # Мониторинг
 Ссылка на DockerHub `https://hub.docker.com/u/apervakov`
+
+# Логирование
+Сбор неструктурированных логов
+Визуализация логов
+Сбор структурированных логов
+Распределенная трасировка
+
+# Kubernetes
+Пройден Kubernetes THW
+Развернуто и запущено приложение Reddit в GKE
+Результат: https://ibb.co/Fs49sRt
