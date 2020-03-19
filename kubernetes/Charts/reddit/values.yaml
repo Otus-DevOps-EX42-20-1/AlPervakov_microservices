@@ -1,0 +1,23 @@
+comment:
+  image:
+    repository: apervakov/comment
+    tag: latest
+  service:
+    externalPort: 9292
+
+post:
+  image:
+    repository: apervakov/post
+    tag: latest
+  service:
+    externalPort: 5000
+
+ui:
+  image:
+    repository: apervakov/ui
+    tag: latest
+  service:
+    externalPort: 9292
+
+mongodb:
+  usePassword: false
